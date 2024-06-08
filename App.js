@@ -6,7 +6,9 @@ export default function App() {
     <View style={styles.container}>
       <Text>
         Hello Malaika github par kasa push karna ha wo bi bata do acha.. wait..
+        project kidr
       </Text>
+      ''
       <StatusBar style="auto" />
     </View>
   );
